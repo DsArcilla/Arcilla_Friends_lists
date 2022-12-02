@@ -1,0 +1,35 @@
+{
+    "First Name":"Dale",
+    "Last Name":"Arcilla",
+    "Age":"21",
+    "Address":"Jaro,Iloilo City",
+    "Contact Number":"0921586033",
+    "Friend_Lists":
+    [
+        {
+            "Name": "Ralfh Lourenze Juelar",
+            "Age": 20,
+            "Address": "Brgy,San Isidro Iloilo",
+            "Likes": "KPOP",
+            "Dislikes": "School",
+            "Feeling": "Downhearted"
+        },
+        {
+            "Name": "Asilanom Rice Senday",
+            "Age": 22,
+            "Address": "Pavia, Iloilo",
+            "Likes": "Ligo Legends",
+            "Dislikes": "BBM",
+            "Feeling": "Tired"
+        },
+        {
+            "Name": "Julie Mae Fuertes",
+            "Age": 21,
+            "Address": "Locsin Ville Subd. Brgy. Buntatala, Jaro, Iloilo City",
+            "Likes": "Food",
+            "Dislikes": "School",
+            "Feeling": "Tired"
+        }
+
+    ]
+}
